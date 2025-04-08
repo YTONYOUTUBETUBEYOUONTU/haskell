@@ -1,0 +1,7 @@
+perro
+gato
+zorro
+ballena
+venado
+morza
+leon
